@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(232, 232, 253);
+}
+.b1{
+    border: 1px solid rgb(245, 242, 242);
+    height: 316px;
+    width: 396px;
+    position: absolute;
+    left: 770px;
+    top: 150px;
+    box-shadow: 0px 0px 20px rgb(161, 161, 161);
+    background-color: white;
+    border-radius: 0.5rem;
+}
+.b1 #input1{
+    margin-left: 10px;
+    margin-top: 10px;
+   height: 40px;
+   width: 88%;
+   font-size: 17px;
+   text-align: left;
+   border-radius: 0.5rem;
+   padding-left: 20px;
+   border: 1px solid lightgrey;
+}
+.b1 #input2{
+    margin-left: 10px;
+    margin-top: 10px;
+   height: 40px;
+   width: 88%;
+   font-size: 17px;
+   text-align: left;
+   border-radius: 0.5rem;
+   padding-left: 20px;
+   border: 1px solid lightgrey;
+}
+.b1 #button1{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 45px;
+    width: 94%;
+    text-align: center;
+    border-radius: 0.5rem;
+    font-size: 20px;
+    border: 1px solid #1877f2;
+    background-color: #1877f2;
+    color: white;
+    font-weight: bold;
+}
+.b1 #para1{
+    margin-left: 150px;
+    margin-top: 15px;
+}
+.b1 #border{
+    border-bottom: 1px solid lightgrey;
+    width: 90%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.b1 #button2{
+    margin-left: 26%;
+    margin-top: 25px;
+    height: 50px;
+    width: 47%;
+    text-align: center;
+    border-radius: 0.5rem;
+    font-size: 17px;
+    border: 1px solid #42b72a;
+    background-color: #42b72a;
+    color: white;
+    font-weight: bold;
+}
+.b2 #image1{
+    position:absolute;
+    left: 150px;
+    top: 170px;
+}
+.b2 #h1{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    position:absolute;
+    left: 180px;
+    top: 250px;
+    text-align: left;
+}
+.extra{
+    position: absolute;
+    left: 810px;
+    top: 500px;
+}
+.b1 #button1:hover{
+    opacity: 0.8;
+}
+.b1 #button2:hover{
+    opacity: 0.8;
+}
